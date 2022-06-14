@@ -1,0 +1,69 @@
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\bin\Debug\dataclient.exe
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\bin\Debug\dataclient.pdb
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+c:\users\jacky\documents\visual studio 2010\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+C:\dataclient\dataclient\bin\Debug\dataclient.exe.config
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.csprojResolveAssemblyReference.cache
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\bin\Debug\dataclient.exe.config
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\Users\Win7_TW\Documents\Visual Studio 2015\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Debug\dataclient.exe.config
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.signup.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Debug\dataclient.Best5_Form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\dataclient.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Best5_Form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.signup.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Debug\MySql.Data.dll
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\bin\Debug\dataclient.exe.config
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\bin\Debug\dataclient.exe
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\bin\Debug\dataclient.pdb
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.Best5_Form.resources
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.Form1.resources
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.Properties.Resources.resources
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.signup.resources
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.CopyComplete
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.exe
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.pdb
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\coding\dataclient\dataclient\obj\x86\Debug\dataclient.csproj.CoreCompileInputs.cache

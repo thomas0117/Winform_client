@@ -1,0 +1,22 @@
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Release\dataclient.exe.config
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Release\dataclient.exe
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\bin\Release\dataclient.pdb
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.Form1.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.Properties.Resources.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.signup.resources
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.csproj.GenerateResource.Cache
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.exe
+C:\Users\bear\Desktop\檔案\dataclient\dataclient\obj\x86\Release\dataclient.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Release\dataclient.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Release\dataclient.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Release\dataclient.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.Best5_Form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.signup.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\obj\x86\Release\dataclient.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\dataclient\dataclient\bin\Release\MySql.Data.dll
